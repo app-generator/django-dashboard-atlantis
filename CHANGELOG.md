@@ -3,7 +3,7 @@
 ## [1.0.5] 2021-06-09
 ### Improvements
 
-- Built with [Atlantis Dark Generator](https://appseed.us/generator/atlantis-dark/)
+- Built with [App Generator](https://appseed.us/generator/)
   - Timestamp: `2022-06-09 12:04`
 
 ## [1.0.4] 2022-01-16
